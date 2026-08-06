@@ -14,6 +14,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;I'm+a+developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
+![Banner](https://ishan-rest.vercel.app/svg/banner/hacker/your-username)
+
+![Snake](https://raw.githubusercontent.com/YOURNAME/YOURNAME/output/github-contribution-grid-snake-dark.svg)
+
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120§ion=header&text=Your%20Name&animation=fadeIn)
+
 </div>
 
 ---
