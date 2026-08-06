@@ -8,7 +8,9 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](@men1mu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](melkamukebede11@gmail.com)
+
 [Melkamu's Portfolio](https://my-portfolio-rrg.pages.dev)
+![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/1232?style=plastic&logo=ghostfolio&logoColor=violet&logoSize=auto&label=my%20portfolio&labelColor=66%2C%20245%2C%20230&color=54%2C%2069%2C%2084&cacheSeconds=3600)
 
 </div>
 
