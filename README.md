@@ -12,12 +12,8 @@
 [Melkamu's Portfolio](https://my-portfolio-rrg.pages.dev)
 ![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/1232?style=plastic&logo=ghostfolio&logoColor=violet&logoSize=auto&label=my%20portfolio&labelColor=66%2C%20245%2C%20230&color=54%2C%2069%2C%2084&cacheSeconds=3600)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;I'm+a+developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
-
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Melkamu%20Kebede&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Developer&descAlignY=55)
 ![Banner](https://ishan-rest.vercel.app/svg/banner/hacker/Melkamu-Kebede)
 
 ![Snake](https://raw.githubusercontent.com/YOURNAME/YOURNAME/output/github-contribution-grid-snake-dark.svg)
