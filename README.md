@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hey there, I'm Melkamu Kebede 👋
+# Hey there, I'm Melkamu Kebede 
 
 ### Software Developer · Student · Builder
 
 *Building useful things from Addis Ababa, Ethiopia 🇪🇹*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](@men1mu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](melkamukebede11@gmail.com)
 
 </div>
 
@@ -16,19 +16,19 @@
 
 ## About Me
 
-I'm a software developer and student at **Addis Ababa Science and Technology University (AASTU)**, working at the **AASTU Innovation Center**. I build things that solve real problems — from e-commerce platforms to Telegram bots to exam prep tools.
+I'm a software developer and student at **Addis Ababa Science and Technology University (AASTU)**, working at the **AASTU Innovation Center **. I build things that solve real problems — from e-commerce platforms to Telegram bots to exam prep tools.
 
-When I'm not writing code, I'm thinking about nuclear energy, educational technology, and how software can make a difference in Ethiopia and beyond.
+When I'm not writing code, I'm thinking educational technology, and how software can make a difference in Ethiopia and beyond.
 
-- 🏗️ Currently building **[Merkato](https://merkato.com)** — an Ethiopian e-commerce marketplace (think Amazon, but for Ethiopia)
-- 🎓 CS student @ AASTU, Addis Ababa
-- ⚡ Also deeply interested in **nuclear energy**
-- 🤝 Open to collaboration on EdTech, marketplaces, and developer tools
-- 📍 Based in **Addis Ababa, Ethiopia**
+-  Currently building **[Merkato](https://merkato.com)** — an Ethiopian e-commerce marketplace (think Amazon, but for Ethiopia)
+-   student @ AASTU, Addis Ababa
+-  Also deeply interested in **Full stack development**
+-  Open to collaboration on EdTech, marketplaces, and developer tools
+-  Based in **Addis Ababa, Ethiopia**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -60,7 +60,7 @@ When I'm not writing code, I'm thinking about nuclear energy, educational techno
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🛒 Merkato — Ethiopian E-Commerce Marketplace
 > An Amazon-inspired marketplace built for Ethiopia
@@ -110,12 +110,11 @@ Browser-based tools that detect AI-generated text and humanize writing. Used to 
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced backend architecture & REST API design
 - Cloud deployment workflows (Render, Cloudflare)
 - Android development (Kotlin)
-- Nuclear energy policy & technology (personal interest)
 
 ---
 
@@ -127,6 +126,5 @@ I'm always open to interesting conversations, collaborations, or just saying hi.
 
 <div align="center">
 
-Made with ❤️ from Addis Ababa 🇪🇹
 
 </div>
