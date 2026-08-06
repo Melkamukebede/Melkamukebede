@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hey there, I'm Melkamu Kebede 
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;I'm+a+developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+![Banner](https://ishan-rest.vercel.app/svg/banner/hacker/Melkamu-Kebede)
+
 
 ### Software Developer · Student · Builder
 
@@ -9,15 +12,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](@men1mu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](melkamukebede11@gmail.com)
 
-[Melkamu's Portfolio](https://my-portfolio-rrg.pages.dev)
-![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/1232?style=plastic&logo=ghostfolio&logoColor=violet&logoSize=auto&label=my%20portfolio&labelColor=66%2C%20245%2C%20230&color=54%2C%2069%2C%2084&cacheSeconds=3600)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;I'm+a+developer;Welcome+to+my+profile!)](https://git.io/typing-svg)
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Melkamu%20Kebede&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Developer&descAlignY=55)
-![Banner](https://ishan-rest.vercel.app/svg/banner/hacker/Melkamu-Kebede)
-
-![Snake](https://raw.githubusercontent.com/YOURNAME/YOURNAME/output/github-contribution-grid-snake-dark.svg)
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120§ion=header&text=Your%20Name&animation=fadeIn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-8A2BE2?style=flat&logo=googlechrome&logoColor=white)](https://my-portfolio-rrg.pages.dev)
 
 </div>
 
