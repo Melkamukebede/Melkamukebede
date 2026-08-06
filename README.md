@@ -6,7 +6,6 @@
 
 *Building useful things from Addis Ababa, Ethiopia 🇪🇹*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](@men1mu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](melkamukebede11@gmail.com)
 
@@ -102,7 +101,7 @@ Browser-based tools that detect AI-generated text and humanize writing. Used to 
 
 <div align="center">
 
-![Melkamu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melkamu-kebede&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff)
+![Melkamu's GitHub Stats](https://my-portfolio-rrg.pages.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu-kebede&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=ffffff)
 
