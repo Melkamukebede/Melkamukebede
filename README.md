@@ -101,7 +101,7 @@ Browser-based tools that detect AI-generated text and humanize writing. Used to 
 
 <div align="center">
 
-![Melkamu's GitHub Stats](https://my-portfolio-rrg.pages.dev)
+[Melkamu's GitHub Stats](https://my-portfolio-rrg.pages.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu-kebede&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=ffffff)
 
