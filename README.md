@@ -18,10 +18,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-![Banner](https://ishan-rest.vercel.app/svg/banner/hacker/your-username)
+![Banner](https://ishan-rest.vercel.app/svg/banner/hacker/Melkamu Kebede )
 
-![Snake](https://raw.githubusercontent.com/Melkamu Kebede /YOURNAME/output/github-contribution-grid-snake-dark.svg)
-
+![Snake](https://raw.githubusercontent.com/YOURNAME/YOURNAME/output/github-contribution-grid-snake-dark.svg)
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120§ion=header&text=Your%20Name&animation=fadeIn)
 
 </div>
