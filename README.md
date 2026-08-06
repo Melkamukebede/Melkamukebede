@@ -20,7 +20,7 @@
 
 ![Banner](https://ishan-rest.vercel.app/svg/banner/hacker/your-username)
 
-![Snake](https://raw.githubusercontent.com/YOURNAME/YOURNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/Melkamu Kebede /YOURNAME/output/github-contribution-grid-snake-dark.svg)
 
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120§ion=header&text=Your%20Name&animation=fadeIn)
 
