@@ -20,7 +20,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Melkamukebede&style=for-the-badge&color=FF9900&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/_Portfolio-FF9900?style=for-the-badge)](https://my-portfolio-rrg.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melkamu-kebede)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/men1mu)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melkamukebede@gmail.com)
 
@@ -58,7 +57,7 @@ const melkamu = {
 ```
 
 - 📱 **Android Developer** with 3+ years experience in **Java, Kotlin & WebView**
--  Building **[Merkato](https://my-portfolio-rrg.pages.dev)** — an Amazon-style e-commerce marketplace for Ethiopia
+-  Building **[Ethiohealth](https://firstaid-98y.pages.dev/)** — It is home doctor, give first aid. 
 -  Creator of **[AI-ML-developer](https://github.com/Melkamukebede/AI-ML-deveeloper)** — AI & ML engineering project template
 -  Built **[ExamMaster Pro](https://github.com/Melkamukebede/exampro)** — offline exam prep suite, works fully in Android WebView
 -  Student & Developer at **AASTU Innovation Center**, Addis Ababa
