@@ -4,6 +4,20 @@
 
 ![Banner](https://ishan-rest.vercel.app/svg/banner/hacker/Melkamu-Kebede)
 
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Melkamu%20Kebede&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver&descAlignY=55)](https://my-portfolio-rrg.pages.dev)
+
+<div align="center">
+  <a href="https://my-portfolio-rrg.pages.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Melkamu+Kebede;Full-Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Top: Animated Wave Banner -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Melkamu%20Kebede&fontSize=50&animation=twinkling&desc=Developer%20%7C%20Innovator)](https://my-portfolio-rrg.pages.dev)
+
+<!-- Below: Typing Introduction -->
+## 👋 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+clean+code;Building+the+future%2C+one+commit+at+a+time)](https://my-portfolio-rrg.pages.dev)
 
 ### Software Developer · Student · Builder
 
