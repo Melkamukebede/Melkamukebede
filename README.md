@@ -24,7 +24,7 @@ I'm a software developer and student at **Addis Ababa Science and Technology Uni
 
 When I'm not writing code, I'm thinking educational technology, and how software can make a difference in Ethiopia and beyond.
 
--  Currently building **[Ethiohealth]([https://merkato.com](https://firstaid-98y.pages.dev/)** — an Ethiopian first aid platform (think as home doctor)
+-  Currently building **[Ethiohealth]((https://firstaid-98y.pages.dev/)** — an Ethiopian first aid platform (think as home doctor)
 -   student @ AASTU, Addis Ababa
 -  Also deeply interested in **Full stack development**
 -  Open to collaboration on EdTech, marketplaces, and developer tools
