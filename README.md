@@ -41,16 +41,16 @@ const melkamu = {
   role:       "Android Developer | 3+ Years",
   languages:  ["Java", "Kotlin", "JavaScript"],
   focus:      "WebView + Native Android + Web",
-  building:   "Merkato 🛒 — Ethiopia's Marketplace",
-  followers:  43,
-  following:  47,
-  repos:      11,
+  building:   "EthioHealth  — Ethiopia's HealthPlatiform",
+  followers:  47,
+  following:  49,
+  repos:      13,
   stars:      9,
   interests: [
-    "Android Development 📱",
-    "Full-Stack Web Dev ,
-    "EdTech & Exam Tools ",
-    "AI / ML Engineering ",
+    "Android Development 📱--90%",
+    "Full-Stack Web Dev   ---80% ,
+    "EdTech & Exam Tools  ---70%",
+    "AI / ML Engineering  ---40% ",
   ],
   available:  true
 };
@@ -60,7 +60,7 @@ const melkamu = {
 -  Building **[Ethiohealth](https://firstaid-98y.pages.dev/)** — It is home doctor, give first aid. 
 -  Creator of **[AI-ML-developer](https://github.com/Melkamukebede/AI-ML-deveeloper)** — AI & ML engineering project template
 -  Built **[ExamMaster Pro](https://github.com/Melkamukebede/exampro)** — offline exam prep suite, works fully in Android WebView
--  Student & Developer at **AASTU Innovation Center**, Addis Ababa
+-  Student & Developer at **AASTU Innovation Center **, Addis Ababa
 -  Member of **Mensilgroup**
 -  Open to collaboration on EdTech, marketplaces & Android projects
 
