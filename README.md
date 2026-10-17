@@ -48,9 +48,9 @@ const melkamu = {
   stars:      9,
   interests: [
     "Android Development 📱--90%",
-    "Full-Stack Web Dev   ---80% ,
-    "EdTech & Exam Tools  ---70%",
-    "AI / ML Engineering  ---40% ",
+    "Full-Stack Web Dev   ---100% ,
+    "EdTech & Exam Tools  ---100%",
+    "AI / ML Engineering  ---92% ",
   ],
   available:  true
 };
