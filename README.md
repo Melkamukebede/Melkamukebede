@@ -42,9 +42,9 @@ const melkamu = {
   languages:  ["Java", "Kotlin", "JavaScript"],
   focus:      "WebView + Native Android + Web",
   building:   "EthioHealth  — Ethiopia's HealthPlatiform",
-  followers:  47,
-  following:  49,
-  repos:      13,
+  followers:  64,
+  following:  50,
+  repos:      23,
   stars:      9,
   interests: [
     "Android Development 📱--90%",
